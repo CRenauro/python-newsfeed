@@ -1,4 +1,5 @@
 from app.routes import home, dashboard
+from app.routes import home
 from flask import Flask
 
 
